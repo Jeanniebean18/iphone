@@ -57,7 +57,7 @@ button {
 
 button:hover {
   color:white;
-  background-color:#008840;
+  background-color:#C6C6C6;
   
 }
 
@@ -136,7 +136,7 @@ p.right {
 #twotextwrap {
   width:39%;
   float:left;
-  margin-top:10%;
+  margin-top:8%;
 }
 
 /*three*/
