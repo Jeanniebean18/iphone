@@ -42,42 +42,33 @@ a:hover {
 }
 
 button {
-  padding:1%;
+  padding:1.1%;
   font-family: 'Yantramanav', sans-serif;
-  font-size:12px;
-  border:none;
+  font-size:15px;
+  border:1px solid;
   color:#3A3A3A;
   border-radius:5px;
+  background-color:white;
   
 }
 
-/*Sections*/
-
-#one {
-  position:relative;
-  margin:0;
-  border:1px solid red;
-  background-image:url("../assets/AppleWatchHero.png");
-  background-size: 980px;
-  background-position: center;
-  background-repeat: no-repeat;  
-  padding:2%;
-  background-color:#FBFBFB;
-  height:1300px;
+button:hover {
+  padding:1.1%;
+  font-family: 'Yantramanav', sans-serif;
+  font-size:15px;
+  border:1px solid;
+  color:white;
+  border-radius:5px;
+  background-color:#008840;
+  
 }
 
-
-
-#onetextwrap {
-  width:80%;
-}
-
-
+/*fonts*/
 h1 {
   font-family: 'Yantramanav', sans-serif;
   font-weight:100;
   color:#3A3A3A;
-  font-size:50px;
+  font-size:45px;
   margin-bottom:0;
   line-height:55px;
   text-align:center;
@@ -86,7 +77,35 @@ p {
   font-family: 'Yantramanav', sans-serif;
   font-weight:100;
   color:#3A3A3A;
-  font-size:25px;
+  font-size:20px;
   text-align:center;
 }
+
+/*Sections*/
+
+#one {
+  position:relative;
+  margin:0;
+/*  border:1px solid red;*/
+  background-image:url("../assets/AppleWatchHero.png");
+  background-size: 980px;
+  background-position: bottom;
+  background-repeat: no-repeat;  
+  padding:2%;
+  background-color:#FBFBFB;
+  height:800px;
+}
+
+#onetextwrap {
+  width:60%;
+}
+
+#logo {
+  width:170px;
+  left:-5px;
+  margin-bottom:-30px;
+}
+
+
+
 
