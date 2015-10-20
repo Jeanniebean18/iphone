@@ -102,15 +102,15 @@ p.left {
   background-repeat: no-repeat;  
   padding:2%;
   background-color:#FBFBFB;
-  height:950px;
+  height:990px;
 }
 
 #onetextwrap {
-  width:60%;
+  width:50%;
 }
 
 #logo {
-  width:140px;
+  width:120px;
   left:-5px;
   margin-bottom:-20px;
 }
@@ -125,6 +125,7 @@ p.left {
   background-repeat: no-repeat;  
   padding-left:8%;
   padding-right:8%;
+  padding-top:0;
   background-color:white;
   height:700px;
 }
