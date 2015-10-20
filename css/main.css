@@ -73,6 +73,11 @@ h1 {
   line-height:55px;
   text-align:center;
 }
+
+h1.left {
+  text-align:left;
+}
+
 p {
   font-family: 'Yantramanav', sans-serif;
   font-weight:100;
@@ -81,8 +86,12 @@ p {
   text-align:center;
 }
 
-/*Sections*/
+p.left {
+  text-align:left;
+}
 
+/*Sections*/
+/*one*/
 #one {
   position:relative;
   margin:0;
@@ -93,7 +102,7 @@ p {
   background-repeat: no-repeat;  
   padding:2%;
   background-color:#FBFBFB;
-  height:800px;
+  height:950px;
 }
 
 #onetextwrap {
@@ -101,11 +110,29 @@ p {
 }
 
 #logo {
-  width:170px;
+  width:140px;
   left:-5px;
-  margin-bottom:-30px;
+  margin-bottom:-20px;
 }
-
+/*two*/
+#two {
+  position:relative;
+  margin:0;
+/*  border:1px solid red;*/
+  background-image:url("../assets/AppleWatchHero2.png");
+  background-size: 980px;
+  background-position: bottom;
+  background-repeat: no-repeat;  
+  padding-left:8%;
+  padding-right:8%;
+  background-color:white;
+  height:700px;
+}
+#twotextwrap {
+  width:40%;
+  float:left;
+  margin-top:20%;
+}
 
 
 
