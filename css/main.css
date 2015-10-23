@@ -100,17 +100,17 @@ p.right {
   position:relative;
   margin:0;
 /*  border:1px solid red;*/
-  background-image:url("../assets/AppleWatchHero.png");
+  background-image:url("../assets/iphonehero1.png");
   background-size: 980px;
   background-position: bottom;
   background-repeat: no-repeat;  
   padding:2%;
   background-color:#FBFBFB;
-  height:990px;
+  height:1040px;
 }
 
 #onetextwrap {
-  width:58%;
+  width:57%;
 }
 
 #logo {
@@ -215,7 +215,8 @@ p.right {
   padding-right:5%;
   padding-top:3%;
   background-color:white;
-  height:690px;
+  height:640px;
+  
   
   
 }
@@ -229,11 +230,13 @@ p.right {
   float:left;
   width:17%;
   margin-top:20%;
+  margin-left:60px;
 }
 #sixtextwrapright {
   float:right;
   width:17%;
   margin-top:20%;
+  margin-right:60px;
 }
 
 
