@@ -1,4 +1,4 @@
-  html {
+html {
   box-sizing: border-box;
 }
 
@@ -102,35 +102,46 @@ p.top {
 #one {
   position:relative;
   margin:0;
-/*  border:1px solid red;*/
   background-image:url("../assets/iphonehero1.png");
   background-size: 980px;
   background-position: bottom;
   background-repeat: no-repeat;  
   padding:2%;
   background-color:#FBFBFB;
-  height:1040px;
+  height:1000px;
 }
 
 #onetextwrap {
+  position:relative;
   width:57%;
 }
 
 #onetextwrapleft {
   float:left;
   width:17%;
-  margin-top:25%;
-  margin-left:60px;
+  margin-top:34%;
+  margin-left:45px;
 }
 #onetextwrapright {
   float:right;
   width:17%;
-  margin-top:25%;
-  margin-right:60px;
+  margin-top:34%;
+  margin-right:45px;
 }
+#onesectiontwo {
+  width:100%%;
+  background-color:#FBFBFB;
+}
+#onetextwrapbottom {
+  margin-top:-20px;
+  width:57%;
+  background-color:#FBFBFB;
+}
+
 .logo {
   width:150px;
 }
+
 .logo2 {
   width:190px;
   margin-left:-19px;
@@ -145,7 +156,6 @@ p.top {
 #two {
   position:relative;
   margin:0;
-/*  border:1px solid red;*/
   background-image:url("../assets/iphonehero4.png");
   background-size: 980px;
   background-position: bottom;
@@ -174,7 +184,6 @@ p.top {
 #three {
   position:relative;
   margin:0;
-/*  border:1px solid red;*/
   background-image:url("../assets/iphonehero3.png");
   background-size: 980px;
   background-position: bottom;
@@ -216,7 +225,6 @@ p.top {
 #five {
   position:relative;
   margin:0;
-/*  border:1px solid red;*/
   background-image:url("../assets/iphonehero5.png");
   background-size: 980px;
   background-position: bottom;
@@ -233,14 +241,14 @@ p.top {
 #fivetextwrapleft {
   float:left;
   width:17%;
-  margin-top:26%;
-  margin-left:60px;
+  margin-top:34%;
+  margin-left:45px;
 }
 #fivetextwrapright {
   float:right;
   width:17%;
-  margin-top:26%;
-  margin-right:60px;
+  margin-top:34%;
+  margin-right:45px;
 }
 .logo {
   width:150px;
@@ -255,7 +263,6 @@ p.top {
 #six {
   position:relative;
   margin:0;
-/*  border:1px solid red;*/
   background-image:url("../assets/iphonehero6.png");
   background-size: 980px;
   background-position: bottom;
