@@ -119,13 +119,13 @@ p.top {
 #onetextwrapleft {
   float:left;
   width:17%;
-  margin-top:24%;
+  margin-top:25%;
   margin-left:60px;
 }
 #onetextwrapright {
   float:right;
   width:17%;
-  margin-top:24%;
+  margin-top:25%;
   margin-right:60px;
 }
 .logo {
@@ -223,7 +223,7 @@ p.top {
   background-repeat: no-repeat;  
   padding:2%;
   background-color:#FBFBFB;
-  height:850px;
+  height:920px;
 }
 
 #fivetextwrap {
@@ -233,13 +233,13 @@ p.top {
 #fivetextwrapleft {
   float:left;
   width:17%;
-  margin-top:24%;
+  margin-top:26%;
   margin-left:60px;
 }
 #fivetextwrapright {
   float:right;
   width:17%;
-  margin-top:24%;
+  margin-top:26%;
   margin-right:60px;
 }
 .logo {
@@ -256,31 +256,26 @@ p.top {
   position:relative;
   margin:0;
 /*  border:1px solid red;*/
-  background-image:url("../assets/iphonehero5.png");
+  background-image:url("../assets/iphonehero6.png");
   background-size: 980px;
   background-position: bottom;
   background-repeat: no-repeat;  
   padding:2%;
-  background-color:#FBFBFB;
-  height:850px;
+  background-color:white;
+  height:635px;
 }
 
 #sixtextwrap {
+  margin-top:4%;
   width:57%;
 }
 
 #sixtextwrapleft {
-  float:left;
+  position:relative;
   width:17%;
-  margin-top:24%;
-  margin-left:60px;
+
 }
-#sixtextwrapright {
-  float:right;
-  width:17%;
-  margin-top:24%;
-  margin-right:60px;
-}
+
 .logo {
   width:150px;
 }
