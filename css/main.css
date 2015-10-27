@@ -8,8 +8,8 @@ html {
 
 body {
   margin:0;
-  
 }
+
 #home {
   position:relative;
   width:980px;
@@ -51,13 +51,11 @@ button {
   color:#3A3A3A;
   border-radius:5px;
   background-color:white;
-  
 }
 
 button:hover {
   color:white;
   background-color:#C6C6C6;
-  
 }
 
 /*fonts*/
@@ -89,9 +87,11 @@ p {
 p.left {
   text-align:left;
 }
+
 p.right {
   text-align:right;
 }
+
 p.top {
   margin-top:-5px;
   margin-bottom:15px;
@@ -122,16 +122,19 @@ p.top {
   margin-top:34%;
   margin-left:45px;
 }
+
 #onetextwrapright {
   float:right;
   width:17%;
   margin-top:34%;
   margin-right:45px;
 }
+
 #onesectiontwo {
   width:100%%;
   background-color:#FBFBFB;
 }
+
 #onetextwrapbottom {
   margin-top:-20px;
   width:57%;
@@ -166,18 +169,19 @@ p.top {
   background-color:white;
   height:700px;
 }
+
 #twotextwrap {
   width:39%;
   float:left;
   margin-top:18%;
 }
+
 .ios9 {
   position:relative;
   width:60px;
   float:right;
   margin-top:-8px;
   margin-right:60px;
-  
 }
 
 /*three*/
@@ -194,6 +198,7 @@ p.top {
   background-color:#FBFBFB;
   height:700px;
 }
+
 #threetextwrap {
   width:70%;
   margin-top:8%;
@@ -212,13 +217,12 @@ p.top {
   padding-top:0;
   background-color:white;
   height:650px;
-  
 }
+
 #fourtextwrap {
   width:39%;
   float:right;
   margin-top:15%;
-  
 }
 
 /*five*/
@@ -244,20 +248,22 @@ p.top {
   margin-top:34%;
   margin-left:45px;
 }
+
 #fivetextwrapright {
   float:right;
   width:17%;
   margin-top:34%;
   margin-right:45px;
 }
+
 .logo {
   width:150px;
 }
+
 .logo2 {
   width:190px;
   margin-left:-19px;
 }
-
 
 /*six*/
 #six {
@@ -286,6 +292,7 @@ p.top {
 .logo {
   width:150px;
 }
+
 .logo2 {
   width:190px;
   margin-left:-19px;
